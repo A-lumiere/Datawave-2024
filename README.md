@@ -1,5 +1,5 @@
-# Datawave-2024
-A hackathon competition hosted by BPI. 
+# Project LEAVES
+A solution submitted for BPI Datawave 2024
 
 # Machine Learning Track
 Machine Learning can go beyond just predicting creditand dive into fairness, accessibility, and social impact. Your team can explore how AI can be used to create fairer systems and help MSMEs in underserved communities access better opportunities.
